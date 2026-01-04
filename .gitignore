@@ -1,0 +1,5 @@
+node-server/node_modules
+node-server/.env
+node-server/package-lock.json
+
+python-server/__pycache__
