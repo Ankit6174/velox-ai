@@ -4,3 +4,5 @@ node-server/package-lock.json
 
 python-server/__pycache__
 python-server/venv
+
+client_secret.json
