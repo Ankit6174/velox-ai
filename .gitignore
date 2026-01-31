@@ -1,8 +1,12 @@
 node-server/node_modules
 node-server/.env
 node-server/package-lock.json
+node-server/public/javascript/quiz.js
 
 python-server/__pycache__
+python-server/Quiz/__pycache__
+python-server/Pinecone_CRUD/__pycache__
 python-server/venv
+python-server/.env
 
 client_secret.json
